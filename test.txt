@@ -6,4 +6,7 @@ this is master
 go to school 
 student 
 teacher
+gogo
+look
+dog
 
