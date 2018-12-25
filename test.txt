@@ -7,6 +7,6 @@ go to school
 student 
 teacher
 gogo
-look
+bookgetou go to school
 dog
 
